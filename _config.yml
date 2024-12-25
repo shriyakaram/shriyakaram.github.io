@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+#twitter:
+#  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Shriya Karam"
-  avatar           : "profile.png"
-  bio              : "Operations Research @ MIT"
-  location         : "Cambridge, MA, US"
+  avatar           : "shriyakaram.JPG"
+  bio              : "Operations Research PhD Student @ MIT"
+  location         : "Cambridge, MA US"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=tI6Vb_IAAAAJ&hl=en&oi=ao"
   email            :
   uri              :
   bitbucket        :
