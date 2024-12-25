@@ -12,7 +12,7 @@ I am fortunate enough to have been recognized for my work (selected awards below
 
 - Richard K. Dentel Memorial Prize in Urban Transportation. University of Pennsylvania, March 2023. 
 
-- Dwight D. Eisenhower Transportation Fellowship, Dwight D. Eisenhower Transportation Fellowship Program, December 2022
+- Dwight D. Eisenhower Transportation Fellowship, Dwight D. Eisenhower Transportation Fellowship Program, December 2022 \
 **Top Ranked Masters’ Fellow**
 
 - WTS International Molitoris Leadership Scholarship for Undergraduates, Women’s Transportation Seminar International, April 2022.
