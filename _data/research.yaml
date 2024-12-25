@@ -1,0 +1,16 @@
+---
+title: "Research"
+layout: single
+permalink: /research/
+---
+
+## Research Experience
+
+{% for research in site.data.research %}
+### {{ research.title }}
+**{{ research.organization }}**, {{ research.location }}  
+*{{ research.date }}*  
+
+{{ research.description }}
+
+{% endfor %}

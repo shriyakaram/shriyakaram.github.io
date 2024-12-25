@@ -10,7 +10,7 @@ main:
     url: /honors/  
 
   - title: "Service"
-    url: /honors/
+    url: /service/
     
   - title: "CV"
     url: /cv/
