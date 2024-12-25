@@ -20,5 +20,5 @@ author_profile: true
 
 ## Conference papers
 
-- **Karam, S.**, Shanos, L., Ford, J., Castaneda, L., Ryerson, M.S., Vohra, R. (2023). The Development of the Reproductive Healthcare Equity Algorithm (RHEA). Andrew P. Sage Memorial Capstone Competition. Honorable Mention for Best Paper in Systems Design Track. 
-* Laboratory for Air Transportation, Infrastructure, and Connected Environments (LATTICE), Department of Aerospace Engineering, University of Michigan, October 2024
+1. **Karam, S.**, Shanos, L., Ford, J., Castaneda, L., Ryerson, M.S., Vohra, R. (2023). The Development of the Reproductive Healthcare Equity Algorithm (RHEA). Andrew P. Sage Memorial Capstone Competition. Honorable Mention for Best Paper in Systems Design Track. 
+- Laboratory for Air Transportation, Infrastructure, and Connected Environments (LATTICE), Department of Aerospace Engineering, University of Michigan, October 2024
