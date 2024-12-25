@@ -8,8 +8,10 @@ author_profile: true
 
 ## Diversity, Equity, and Inclusion
 
-- Graduate Student Council (GSC), DEI Committee Co-Chair, January 2024 - present
+- Graduate Student Council (January 2024 - present) \
+DEI Committee Co-Chair
 
 ## Academic service
 
-- Transportation Research Board (TRB), Program Committee, Young Members Council-Aviation, June 2023 – January 2024.
+- Transportation Research Board Young Members Council-Aviation (June 2023 – January 2024) \
+Program Committee Member
