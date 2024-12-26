@@ -10,7 +10,7 @@ author_profile: true
 
 - Graduate Student Council (GSC) (January 2024 - present) \
 DEI Committee Co-Chair \
-Lead the [GSC DEI committee](https://gsc.mit.edu/about/committees/dei/ "GSC DEI committee") initiatives and events centered around promoting an inclusive environment for underrepresented graduate students at MIT. 
+Lead the [GSC DEI committee](https://gsc.mit.edu/about/committees/dei/ "GSC DEI committee") initiatives and events centered around promoting an inclusive environment and recruiting and retaining underrepresented graduate students at MIT. 
 
 ## Academic service
 
