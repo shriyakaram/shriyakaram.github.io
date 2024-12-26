@@ -8,13 +8,13 @@ author_profile: true
 
 ## Diversity, Equity, and Inclusion
 
-- Graduate Student Council (January 2024 - present) \
+- Graduate Student Council (GSC) (January 2024 - present) \
 DEI Committee Co-Chair
-TO DO: ADD DESC
+Lead the GSC DEI committee initiatives and events centered around promoting an inclusive environment for underrepresented graduate students at MIT. 
 
 ## Academic service
 
 - Transportation Research Board Young Members Council-Aviation (June 2023 – January 2024) \
 Program Committee Member
-TO DO: ADD DESC
+Served on the planning committee to develop material and coordinate speakers for a air service development session at the Transportation Research Board Annual Meeting held in January 2024. 
 
