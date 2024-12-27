@@ -6,11 +6,14 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/      
+  - title: "Policy"
+    url: /policy/
 
-  - title: "Articles"
-    url: /articles/
+  - title: "Teaching"
+    url: /teaching/     
+
+  - title: "Outreach"
+    url: /outreach/      
 
   - title: "Honors"
     url: /honors/ 

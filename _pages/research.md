@@ -12,9 +12,9 @@ My research is organized in a few categories. Broadly my research interests focu
 
 ### Systems design (PhD)
 
-[W1]. Microtransit design: fixed-line transit, on-demand mobility, or both?
-- Presented at the 2024 INFORMS Annual Meeting (October 2024, Seattle WA, USA).
-- Presented at the MIT ORC Student Seminar (October 2024, Cambridge MA, USA).
+[W1]. Microtransit design: fixed-line transit, on-demand mobility, or both? \
+-Presented at the 2024 INFORMS Annual Meeting (October 2024, Seattle WA, USA). \
+-Presented at the MIT ORC Student Seminar (October 2024, Cambridge MA, USA).
 
 ### Urban bikeshare planning (undergrad)
 
