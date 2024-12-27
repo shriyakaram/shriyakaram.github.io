@@ -29,7 +29,7 @@ My research is organized in a few categories. Broadly my research interests focu
 
 [J2]. **Karam, S.**, Ryerson, M.S., Kim, A.M., Li, M.Z. (2024). Autonomous Vehicle Impacts on Airport Leakage with Demand Forecasting and Environment Implications. Transportation Research Part D: Transport and Environment. \
 ([DOI](https://doi.org/10.1016/j.trd.2024.104268 "DOI")), ([PDF](/files/leakage.pdf "PDF")) \
--_Presented at the 2024 Transportation Research Board Annual Meeting Aviation Economics and Forecasting Committee Meeting (January 2024, Washington DC, USA)._
+-_Presented at the 2024 Transportation Research Board Annual Meeting Aviation Economics and Forecasting Committee Meeting (January 2024, Washington DC, USA)._ \
 -_Presented at the 2023 INFORMS Annual Meeting (October 2023, Phoeniz AZ, USA)._ \
 -_Presented at the INFORMS Transportation Science and Logistics (TSL) Society Conference (July 2023, Chicago IL, USA)._ \
 -_Presented at the 4th Symposium on Aviation Research (March 2023, Toulouse, France)._
