@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Here are some essays I've written on transportation policy! Comments and discussion is encouraged. More essays coming soon!
+Here are some essays I've written on transportation policy! Feedback and comments are welcome. More essays coming soon!
 
 - **The Pathway to Equitable Access: Enhancing Transportation Performance Management (TPM)**  \
 _3rd Place in the Public Roads Student Writing Competition_ (Jan 2023) \
