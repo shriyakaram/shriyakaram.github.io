@@ -4,9 +4,9 @@
 
   .masthead {
   position: relative;
-  background-color: navy !important; /* Force navy background */
+  background-color: #152945 !important; /* Force navy background */
   color: white;
-  border-bottom: 1px solid navy; /* Changed to navy to blend */
+  border-bottom: 1px solid #152945; /* Changed to navy to blend */
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -14,8 +14,7 @@
   z-index: 20;
 
   * {
-    /* Ensure all elements inside masthead inherit the navy background */
-    background-color: navy !important;
+    background-color: #152945 !important;
     color: white;
   }
 
@@ -24,7 +23,7 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-    background-color: navy;
+    background-color: #152945;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -32,7 +31,7 @@
 
     nav {
       z-index: 10;
-      background-color: navy;
+      background-color: #152945;
     }
 
     a {
@@ -47,14 +46,14 @@
 }
 
 .masthead__menu {
-  background-color: navy;
+  background-color: #152945;
 
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
-    background-color: navy;
+    background-color: #152945;
   }
 }
 
@@ -62,7 +61,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  background-color: navy;
+  background-color: #152945;
 
   &--lg {
     padding-right: 2em;
