@@ -1,56 +1,65 @@
 /* ==========================================================================
-  MASTHEAD
-  ========================================================================== */
+MASTHEAD
+========================================================================== */
 
-  .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
-  z-index: 20;
+.masthead {
+position: relative;
+border-bottom: 1px solid $border-color;
+-webkit-animation: intro 0.3s both;
+        animation: intro 0.3s both;
+-webkit-animation-delay: 0.15s;
+        animation-delay: 0.15s;
+z-index: 20;
 
-  background-color: navy; // Set background color to navy
-  color: white;           // Set text color to white for contrast
+background-color: navy;
+color: white;
 
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+&__inner-wrap {
+  @include container;
+  @include clearfix;
+  padding: 1em 1em 1em;
+  font-family: $sans-serif-narrow;
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-
-    nav {
-      z-index: 10;
-    }
-
-    a {
-      text-decoration: none;
-    }
+  @include breakpoint($x-large) {
+    max-width: $x-large;
   }
+
+  nav {
+    z-index: 10;
+  }
+
+  a {
+    text-decoration: none;
+    color: white; /* Make all links white */
+  }
+}
 }
 
 .masthead__menu {
-
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
-  }
+ul {
+  margin: 0;
+  padding: 0;
+  clear: both;
+  list-style-type: none;
+}
 }
 
 .masthead__menu-item {
-  display: block;
-  list-style-type: none;
-  white-space: nowrap;
+display: block;
+list-style-type: none;
+white-space: nowrap;
+color: white; /* Ensure menu items are white */
 
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+&--lg {
+  padding-right: 2em;
+  font-weight: 700;
+}
+
+a {
+  color: white; /* Ensure menu item links are white */
+  
+  &:hover {
+    color: #cccccc; /* Slightly darker white on hover for better UX */
   }
+}
 }
