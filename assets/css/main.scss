@@ -10,63 +10,37 @@
  *
 */
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-primer";
 
-/* Custom header styles */
+.container-lg {
+  max-width: 1012px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .header {
   background-color: navy !important;
-  padding: 1rem;
+  padding: 1rem 0;
 }
 
 .header a {
-  color: #ffffff !important;
-  text-decoration: none;
+  color: white !important;
+  text-decoration: none !important;
 }
 
 .header a:hover {
   color: rgba(255, 255, 255, 0.8) !important;
-  text-decoration: none;
 }
 
-/* Navigation styles */
-.site-nav {
-  background-color: navy !important;
+.markdown-body .highlight pre,
+.markdown-body pre {
+  background-color: #f6f8fa;
 }
 
-.site-nav a {
-  color: #ffffff !important;
+/* Keep your existing custom styles below */
+.markdown-body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word
 }
-
-.site-nav a:hover {
-  color: rgba(255, 255, 255, 0.8) !important;
-}
-
-@import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "variables";
-@import "mixins";
-@import "vendor/susy/susy";
-
-@import "reset";
-@import "base";
-
-@import "utilities";
-@import "animations";
-@import "tables";
-@import "buttons";
-@import "notices";
-@import "masthead";
-@import "navigation";
-@import "footer";
-@import "syntax";
-
-@import "forms";
-
-@import "page";
-@import "archive";
-@import "sidebar";
-
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print";
