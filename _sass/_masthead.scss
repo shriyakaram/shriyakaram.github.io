@@ -11,6 +11,9 @@
           animation-delay: 0.15s;
   z-index: 20;
 
+  background-color: navy; // Set background color to navy
+  color: white;           // Set text color to white for contrast
+
   &__inner-wrap {
     @include container;
     @include clearfix;
