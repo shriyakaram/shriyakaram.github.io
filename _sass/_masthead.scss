@@ -41,7 +41,8 @@
         color: white;
         
         &:hover {
-          color: white;
+          color: white; /* Remove underline on hover */
+          text-decoration: none; /* Explicitly ensure no underline on hover */
         }
       }
     }
