@@ -10,51 +10,34 @@
  *
 */
 
-@charset "utf-8";
+@import "{{ site.theme }}";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+/* Custom header styles */
+.header {
+  background-color: navy !important;
+  padding: 1rem;
+}
 
-/* Custom styles for header */
-.masthead {
+.header a {
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: rgba(255, 255, 255, 0.8) !important;
+  text-decoration: none;
+}
+
+/* Navigation styles */
+.site-nav {
   background-color: navy !important;
 }
 
-.masthead__inner-wrap {
-  padding: 1em;
-}
-
-.greedy-nav {
-  background: navy !important;
-}
-
-.greedy-nav a {
+.site-nav a {
   color: #ffffff !important;
 }
 
-.greedy-nav .visible-links a:hover {
-  color: rgba(255, 255, 255, 0.8) !important;
-}
-
-.greedy-nav .visible-links a:before {
-  background: rgba(255, 255, 255, 0.8) !important;
-}
-
-/* Style for site title */
-.site-title {
-  color: #ffffff !important;
-}
-
-.site-title:hover {
-  color: rgba(255, 255, 255, 0.8) !important;
-}
-
-/* Style for navigation items */
-.nav__items a {
-  color: #ffffff !important;
-}
-
-.nav__items a:hover {
+.site-nav a:hover {
   color: rgba(255, 255, 255, 0.8) !important;
 }
 
