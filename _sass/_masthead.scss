@@ -3,68 +3,70 @@
   ========================================================================== */
 
   .masthead {
-  position: relative;
-  background-color: #152945 !important; /* Force navy background */
-  color: white;
-  border-bottom: 1px solid #152945; /* Changed to navy to blend */
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
-  z-index: 20;
-
-  * {
-    background-color: #152945 !important;
+    position: relative;
+    background-color: #152945 !important; /* Force navy background */
     color: white;
-  }
-
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $inter;
-    background-color: #152945;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-
-    nav {
-      z-index: 10;
-      background-color: #152945;
-    }
-
-    a {
-      text-decoration: none;
+    border-bottom: 0.5px solid #152945; /* Changed to navy to blend */
+    -webkit-animation: intro 0.3s both;
+            animation: intro 0.3s both;
+    -webkit-animation-delay: 0.15s;
+            animation-delay: 0.15s;
+    z-index: 20;
+  
+    * {
+      background-color: #152945 !important;
       color: white;
-      
-      &:hover {
+    }
+  
+    &__inner-wrap {
+      @include container;
+      @include clearfix;
+      padding: 0.5em 1em; /* Reduced padding to make the masthead thinner */
+      font-family: $inter;
+      background-color: #152945;
+  
+      @include breakpoint($x-large) {
+        max-width: $x-large;
+      }
+  
+      nav {
+        z-index: 10;
+        background-color: #152945;
+        display: flex; /* Use flexbox for better alignment */
+        justify-content: flex-start; /* Align nav items to the left */
+      }
+  
+      a {
+        text-decoration: none;
         color: white;
+        
+        &:hover {
+          color: white;
+        }
       }
     }
   }
-}
-
-.masthead__menu {
-  background-color: #152945;
-
-  ul {
+  
+  .masthead__menu {
+    background-color: #152945;
+    display: flex; /* Use flexbox for alignment */
+    justify-content: flex-start; /* Align menu items to the left */
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
+  }
+  
+  .masthead__menu-item {
+    display: block;
+    list-style-type: none;
+    white-space: nowrap;
     background-color: #152945;
+    margin-right: 0.5em; /* Reduced margin to reduce spacing between icons */
+  
+    &--lg {
+      padding-right: 0.5em; /* Reduced padding for a smaller gap */
+      font-weight: 600;
+    }
   }
-}
-
-.masthead__menu-item {
-  display: block;
-  list-style-type: none;
-  white-space: nowrap;
-  background-color: #152945;
-
-  &--lg {
-    padding-right: 1em;
-    font-weight: 600;
-  }
-}
+  
