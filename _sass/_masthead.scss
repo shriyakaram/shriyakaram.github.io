@@ -1,65 +1,71 @@
 /* ==========================================================================
-MASTHEAD
-========================================================================== */
+  MASTHEAD
+  ========================================================================== */
 
-.masthead {
-position: relative;
-border-bottom: 1px solid $border-color;
--webkit-animation: intro 0.3s both;
-        animation: intro 0.3s both;
--webkit-animation-delay: 0.15s;
-        animation-delay: 0.15s;
-z-index: 20;
+  .masthead {
+  position: relative;
+  background-color: navy !important; /* Force navy background */
+  color: white;
+  border-bottom: 1px solid navy; /* Changed to navy to blend */
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
+  z-index: 20;
 
-background-color: navy;
-color: white;
-
-&__inner-wrap {
-  @include container;
-  @include clearfix;
-  padding: 1em 1em 1em;
-  font-family: $sans-serif-narrow;
-
-  @include breakpoint($x-large) {
-    max-width: $x-large;
+  * {
+    /* Ensure all elements inside masthead inherit the navy background */
+    background-color: navy !important;
+    color: white;
   }
 
-  nav {
-    z-index: 10;
-  }
+  &__inner-wrap {
+    @include container;
+    @include clearfix;
+    padding: 1em 1em 1em;
+    font-family: $sans-serif-narrow;
+    background-color: navy;
 
-  a {
-    text-decoration: none;
-    color: white; /* Make all links white */
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+
+    nav {
+      z-index: 10;
+      background-color: navy;
+    }
+
+    a {
+      text-decoration: none;
+      color: white;
+      
+      &:hover {
+        color: #cccccc;
+      }
+    }
   }
-}
 }
 
 .masthead__menu {
-ul {
-  margin: 0;
-  padding: 0;
-  clear: both;
-  list-style-type: none;
-}
+  background-color: navy;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    list-style-type: none;
+    background-color: navy;
+  }
 }
 
 .masthead__menu-item {
-display: block;
-list-style-type: none;
-white-space: nowrap;
-color: white; /* Ensure menu items are white */
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+  background-color: navy;
 
-&--lg {
-  padding-right: 2em;
-  font-weight: 700;
-}
-
-a {
-  color: white; /* Ensure menu item links are white */
-  
-  &:hover {
-    color: #cccccc; /* Slightly darker white on hover for better UX */
+  &--lg {
+    padding-right: 2em;
+    font-weight: 700;
   }
-}
 }
