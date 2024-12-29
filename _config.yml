@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Shriya Karam"
   avatar           : "shriyakaram.JPG"
-  bio              : "Ph.D. Student \\ Massachusetts Institute of Technlogy \\  Operations Research Center"
+  bio              : |
+    Ph.D. Student @ MIT  
+    [Operations Research Center](https://orc.mit.edu)  
+    karam809@mit.edu
   location         : #"Cambridge MA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=tI6Vb_IAAAAJ&hl=en&oi=ao"
