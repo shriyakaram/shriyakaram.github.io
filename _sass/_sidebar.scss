@@ -19,8 +19,8 @@
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
-    margin-left: 2em;  /* Add margin to shift right */
-    padding-left: 2em; /* Add padding to shift right */
+    margin-left: 1em;  /* Add margin to shift right */
+    //padding-left: 2em; /* Add padding to shift right */
     //float: right;      /* Float to right */
 
     &:hover {
@@ -93,7 +93,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      // border: 1px solid $border-color;
     }
   }
 }
