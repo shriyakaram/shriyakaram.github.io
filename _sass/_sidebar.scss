@@ -19,7 +19,7 @@
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
-    margin-left: 1em;  /* Add margin to shift right */
+    //margin-left: 1em;  /* Add margin to shift right */
     //padding-left: 2em; /* Add padding to shift right */
     //float: right;      /* Float to right */
 
@@ -31,7 +31,7 @@
 
   @include breakpoint($x-large) {
     padding-right: 0;
-    margin-right: 2em;
+    //margin-right: 2em;
   }
 
   h2, h3, h4, h5, h6 {
