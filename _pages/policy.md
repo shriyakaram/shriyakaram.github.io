@@ -3,6 +3,7 @@ layout: archive
 title: "Policy"
 permalink: /policy/
 author_profile: true
+show_sidebar: false
 
 ---
 
