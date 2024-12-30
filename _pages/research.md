@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 My research is organized in a few categories. Broadly my research interests focus on urban mobility (PhD work) and multimodal transportation accessibility and equity (undergraduate work).
-## Urban mobility
+## Focus 1: Urban mobility
 ### Systems design (PhD)
 
 [W1]. Microtransit design: fixed-line transit, on-demand mobility, or both? \
@@ -23,7 +23,7 @@ My research is organized in a few categories. Broadly my research interests focu
 [W2]. Davidson, J., Nam, S.J., **Karam, S.**, Ryerson, M.S. Cycling in a crisis: Employing quasi-experimental designs to estimate the effects of provisional bicycle infrastructure. Journal of Planning Education and Research (Under Revision). \
 -_Presented at the 2024 Transportation Research Board Annual Meeting (January 2024, Washington DC, USA)._
 
-## Multimodal transportation accessibility and equity (undergrad)
+## Focus 2: Multimodal transportation accessibility and equity (undergrad)
 
 [J2]. **Karam, S.**, Ryerson, M.S., Kim, A.M., Li, M.Z. (2024). Autonomous Vehicle Impacts on Airport Leakage with Demand Forecasting and Environment Implications. Transportation Research Part D: Transport and Environment. \
 ([DOI](https://doi.org/10.1016/j.trd.2024.104268 "DOI")), ([PDF](/files/leakage.pdf "PDF")) \
