@@ -3,8 +3,6 @@ layout: archive
 title: "Policy"
 permalink: /policy/
 author_profile: true
-show_sidebar: false
-
 ---
 
 Here are some essays I've written on transportation policy! Feedback and comments are welcome. More essays coming soon!
