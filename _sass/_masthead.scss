@@ -21,7 +21,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em; /* Reduced padding to make it thinner */
+    padding: 1em 1em; /* Reduced padding to make it thinner */
     font-family: $inter;
     background-color: #152945;
 
