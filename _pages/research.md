@@ -29,14 +29,14 @@ My research is organized in a few categories. Broadly my research interests focu
 ([DOI](https://doi.org/10.1016/j.trd.2024.104268 "DOI")), ([PDF](/files/leakage.pdf "PDF")) \
 -_Presented at the 2024 Transportation Research Board Annual Meeting Aviation Economics and Forecasting Committee Meeting (January 2024, Washington DC, USA)._ \
 -_Presented at the 2023 INFORMS Annual Meeting (October 2023, Phoeniz AZ, USA)._ \
--_Presented at the INFORMS Transportation Science and Logistics (TSL) Society Conference (July 2023, Chicago IL, USA)._ \
+-_Presented at the INFORMS Transportation Science and Logistics Society Conference (July 2023, Chicago IL, USA)._ \
 -_Presented at the 4th Symposium on Aviation Research (March 2023, Toulouse, France)._
 
 [J3]. **Karam, S.**, Nam, S.J., Ryerson, M.S. (2022). AIMing for Equity in Measuring Aviation Accessibility: Development of the Aviation-accessibility Integrated Mobility (AIM) Metric. Transportation Research Record. \
 ([DOI](https://doi.org/10.1177/0361198122108392 "DOI")), ([PDF](/files/aim.pdf "PDF")) \
 -_Presented at the 2023 Transportation Research Board Annual Meeting Eisenhower Fellowship Research Showcase (January 2023, Washington DC, USA)._ \
 -_Presented at the 10th International Conference on Research in Air Transportation (June 2022, Tampa FL, USA)._ \
--_Presented at the P2022 Transportation Research Board Annual Meeting Airport Terminals and Ground Access Committee Meeting (January 2022, Washington DC, USA)._
+-_Presented at the 2022 Transportation Research Board Annual Meeting Airport Terminals and Ground Access Committee Meeting (January 2022, Washington DC, USA)._
 
 [J4]. **Karam, S.** and Ryerson, M.S. (2023). Operating at the Individual Level: A review of literature and a research agenda to support needs-forward models of transport resource allocation. Transportation Research Interdisciplinary Perspectives. \
 ([DOI](https://doi.org/10.1016/j.trip.2023.100887 "DOI")), ([PDF](/files/trip.pdf "PDF")) 
