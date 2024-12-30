@@ -3,102 +3,68 @@
   ========================================================================== */
 
   .masthead {
-    position: relative;
-    background-color: #152945 !important; /* Force navy background */
+  position: relative;
+  background-color: #152945 !important; /* Force navy background */
+  color: white;
+  border-bottom: 0.5px solid #152945; /* Changed to navy to blend */
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
+  z-index: 20;
+
+  * {
+    background-color: #152945 !important;
     color: white;
-    border-bottom: 0.5px solid #152945; /* Changed to navy to blend */
-    -webkit-animation: intro 0.3s both;
-            animation: intro 0.3s both;
-    -webkit-animation-delay: 0.15s;
-            animation-delay: 0.15s;
-    z-index: 20;
-  
-    * {
-      background-color: #152945 !important;
-      color: white;
+  }
+
+  &__inner-wrap {
+    @include container;
+    @include clearfix;
+    padding: 1em 1em 1em;
+    font-family: $inter;
+    background-color: #152945;
+
+    @include breakpoint($x-large) {
+      max-width: $x-large;
     }
-  
-    &__inner-wrap {
-      @include container;
-      @include clearfix;
-      padding: 0.5em 1em; /* Reduced padding to make the masthead thinner */
-      font-family: $inter;
+
+    nav {
+      z-index: 10;
       background-color: #152945;
-  
-      @include breakpoint($x-large) {
-        max-width: $x-large;
-      }
-  
-      nav {
-        z-index: 10;
-        background-color: #152945;
-        display: flex; /* Use flexbox for better alignment */
-        justify-content: flex-start; /* Align nav items to the left */
-      }
-  
-      a {
-        text-decoration: none;
-        color: rgba(255, 255, 255, 0.7); // Semi-transparent white by default
-        transition: color 0.2s ease; // Smooth transition for color changes
-        
-        &:hover {
-          color: rgba(255, 255, 255, 0.9); // More opaque on hover
-          text-decoration: none; /* Explicitly ensure no underline on hover */
-        }
+    }
 
-        &.active, // For active state
-        &[aria-current="page"] { // For current page
-          color: white; // Fully white when active/current
-        }
-
+    a {
+      text-decoration: none;
+      color: white;
+      
+      &:hover {
+        color: white;
       }
     }
   }
-  
-  .masthead__menu {
-    background-color: #152945;
-    display: flex; /* Use flexbox for alignment */
-    justify-content: flex-start; /* Align menu items to the left */
+}
+
+.masthead__menu {
+  background-color: #152945;
+
+  ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
-
-    .active {
-      a {
-        color: white; // Fully white for active items
-      }
-    }
-
-  }
-  
-  .masthead__menu-item {
-    display: block;
-    list-style-type: none;
-    white-space: nowrap;
     background-color: #152945;
-    margin-right: 0.5em; /* Reduced margin to reduce spacing between icons */
-
-    a {
-      color: rgba(255, 255, 255, 0.7); // Semi-transparent by default
-      
-      &:hover {
-        color: rgba(255, 255, 255, 0.9); // More opaque on hover
-      }
-      
-      &.active,
-      &[aria-current="page"] {
-        color: white; // Fully white when active/current
-      }
-    }
-  
-    &--lg {
-      padding-right: 0.5em; /* Reduced padding for a smaller gap */
-      font-weight: 600;
-    }
-
-    a {
-      color: white; // Keep the main title white if desired
-    }
   }
-  
+}
+
+.masthead__menu-item {
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+  background-color: #152945;
+
+  &--lg {
+    padding-right: 1em;
+    font-weight: 600;
+  }
+}

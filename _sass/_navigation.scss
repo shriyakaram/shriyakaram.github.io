@@ -225,16 +225,6 @@
 
     a {
       position: relative;
-      color: rgba(255, 255, 255, 0.7); // Semi-transparent by default
-
-      &.active,
-      &[aria-current="page"] {
-        color: white; // Fully white when active
-        
-        &:before {
-          transform: scaleX(1); // Show the underline for active items
-        }
-      }
 
       &:before {
         content: "";
