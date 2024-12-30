@@ -41,12 +41,12 @@
   }
 
   h3, h4 {
-    font-size: $type-size-3;
+    font-size: $type-size-4;
   }
 
   p, li {
     font-family: $inter;
-    font-size: $type-size-4;
+    font-size: $type-size-5;
     line-height: 1.5;
     text-align: center; /* Add this line */
   }
@@ -126,7 +126,7 @@
 }
 .sidebar .author__name {
   font-family: $inter;
-  font-size: $type-size-3;
+  font-size: $type-size-4;
 }
 
 .author__bio {
@@ -146,7 +146,7 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
-  text-align: center; /* Add this line */
+  //text-align: center; /* Add this line */
 
   li:last-child {
     a {
@@ -227,7 +227,7 @@
 
   li {
     white-space: nowrap;
-    text-align: center; /* Add this line */
+    //text-align: center; /* Add this line */
   }
 
   a {
@@ -239,7 +239,7 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
-    text-align: center; /* Add this line */
+    //text-align: center; /* Add this line */
 
     &:hover {
       text-decoration: underline;
