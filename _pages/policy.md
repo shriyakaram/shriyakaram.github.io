@@ -17,4 +17,4 @@ Currently, the Federal Highways Adminsitration uses TPM to evaluate the impacts 
 - **Runway to Recovery During Covid-19: Aviation Accessibility Though An Equity Lens** \
 _3rd place Student Winner in the Martin Wachs Memorial Essay Contest_ (Jan 2022) \
 ([Article](/files/eno_essay.pdf "Article")) ([Video](https://www.youtube.com/watch?v=CT5SYFbk3PY "Video")) \
-Thus essay discusses how to leverage the transition from the pandemic to further develop air transportation systems with a focus on accessibility.
+This essay discusses how to leverage the transition from the pandemic to further develop air transportation systems with a focus on accessibility.
