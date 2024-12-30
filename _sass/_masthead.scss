@@ -38,12 +38,19 @@
   
       a {
         text-decoration: none;
-        color: white;
+        color: rgba(255, 255, 255, 0.7); // Semi-transparent white by default
+        transition: color 0.2s ease; // Smooth transition for color changes
         
         &:hover {
-          color: white; /* Remove underline on hover */
+          color: rgba(255, 255, 255, 0.9); // More opaque on hover
           text-decoration: none; /* Explicitly ensure no underline on hover */
         }
+
+        &.active, // For active state
+        &[aria-current="page"] { // For current page
+          color: white; // Fully white when active/current
+        }
+
       }
     }
   }
@@ -56,6 +63,13 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+
+    .active {
+      a {
+        color: white; // Fully white for active items
+      }
+    }
+
   }
   
   .masthead__menu-item {
@@ -64,10 +78,27 @@
     white-space: nowrap;
     background-color: #152945;
     margin-right: 0.5em; /* Reduced margin to reduce spacing between icons */
+
+    a {
+      color: rgba(255, 255, 255, 0.7); // Semi-transparent by default
+      
+      &:hover {
+        color: rgba(255, 255, 255, 0.9); // More opaque on hover
+      }
+      
+      &.active,
+      &[aria-current="page"] {
+        color: white; // Fully white when active/current
+      }
+    }
   
     &--lg {
       padding-right: 0.5em; /* Reduced padding for a smaller gap */
       font-weight: 600;
+    }
+
+    a {
+      color: white; // Keep the main title white if desired
     }
   }
   
