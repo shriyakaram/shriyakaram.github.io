@@ -21,21 +21,17 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 0.5em; /* Reduced padding to make it thinner */
-    margin-left: 1rem;
+    padding: 1em 1em; /* Reduced padding to make it thinner */
     font-family: $inter;
     background-color: #152945;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
-      padding-left: 0; /* Remove padding at larger screens */
-      margin-left: 1rem; /* Consistent left margin */
     }
 
     nav {
       z-index: 10;
       background-color: #152945;
-      padding-left: 0;
     }
 
     a {
@@ -51,7 +47,6 @@
 
 .masthead__menu {
   background-color: #152945;
-  padding-left: 0; /* Remove menu padding */
 
   ul {
     margin: 0;
@@ -67,7 +62,6 @@
   list-style-type: none;
   white-space: nowrap;
   background-color: #152945;
-  padding-left: 0; /* Remove item padding */
 
   &--lg {
     padding-right: 1em;
