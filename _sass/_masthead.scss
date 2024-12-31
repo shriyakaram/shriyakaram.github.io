@@ -37,6 +37,8 @@
     a {
       text-decoration: none;
       color: white;
+      font-size: 1.5em; /* Make the name bigger */
+      font-weight: normal; /* Ensure it's not bold */
       
       &:hover {
         color: white;
@@ -67,4 +69,10 @@
     padding-right: 1em;
     font-weight: 600;
   }
+}
+
+/* Additional style specifically for the name */
+.site-title {
+  font-size: 1.5em !important;
+  font-weight: normal !important;
 }
