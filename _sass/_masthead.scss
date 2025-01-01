@@ -17,7 +17,7 @@
     background-color: #152945 !important;
     color: white;
   }
-
+   
   &__inner-wrap {
     @include container;
     @include clearfix;
@@ -62,6 +62,17 @@
   list-style-type: none;
   white-space: nowrap;
   background-color: #152945;
+
+  a {
+    color: rgba(255, 255, 255, 0.7); // Semi-transparent by default
+    transition: color 0.2s ease-in-out;
+    
+    &:hover,
+    &:focus,
+    &.active {
+      color: rgba(255, 255, 255, 1); // Full white on hover/focus/active
+    }
+  }
 
   &--lg {
     padding-right: 1em;

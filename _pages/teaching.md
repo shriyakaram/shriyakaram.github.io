@@ -18,6 +18,6 @@ Graduate-level course in statistical methods for urban planning applications (30
 _Teaching assistant_  \
 Undergraduate-level course in dynamical systems theory and applications (50 students). Led office hours, exam review sessions, and graded homework assignments and exams.
 
-- **Teaching assistant trainer (Undergraduate), University of Pennsylvania (Aug 2022)** \
+- **Teaching assistant trainer, University of Pennsylvania (Aug 2022)** \
 _Trainer_ \
-Led training courses for new teaching assistants for the School of Engineering. Developed materials and led training sessions for 30 new TAs. 
+Led training courses for new undergraduate teaching assistants for the School of Engineering. Developed materials and led training sessions for 30 new TAs. 
