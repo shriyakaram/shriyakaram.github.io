@@ -40,12 +40,12 @@
   }
 
   h3, h4 {
-    font-size: $type-size-6;
+    font-size: $type-size-5;
   }
 
   p, li {
     font-family: $inter;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     line-height: 1.5;
   }
 
@@ -88,7 +88,7 @@
   }
 
   img {
-    max-width: 250px;
+    max-width: 300px;
     //border-radius: 50%;
 
     @include breakpoint($large) {
@@ -123,7 +123,7 @@
 }
 .sidebar .author__name {
   font-family: $inter;
-  font-size: $type-size-4;
+  font-size: $type-size-3;
 }
 
 .author__bio {
@@ -232,7 +232,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: $type-size-4;
     text-decoration: none;
 
     &:hover {
