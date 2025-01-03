@@ -224,10 +224,6 @@
       }
     }
 
-    a.active {
-      color: rgba(255, 255, 255, 1); // Full white for active/current page
-    }
-
     a {
       position: relative;
 
@@ -253,6 +249,11 @@
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
+      }
+
+      &.active,
+      &[aria-current="page"] {
+        color: rgba(255, 255, 255, 1);
       }
     }
   }
