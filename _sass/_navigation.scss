@@ -224,6 +224,10 @@
       }
     }
 
+    a.active {
+      color: rgba(255, 255, 255, 1); // Full white for active/current page
+    }
+
     a {
       position: relative;
 
