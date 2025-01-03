@@ -188,6 +188,12 @@
       color: rgba(255, 255, 255, 1);
       text-decoration: none; // Remove underline on hover
     }
+
+    &.active,
+    &[aria-current="page"] {
+      color: rgba(255, 255, 255, 1);
+      text-decoration: none;
+    }
   }
 
   button {
