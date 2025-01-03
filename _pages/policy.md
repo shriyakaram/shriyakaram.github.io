@@ -5,7 +5,7 @@ permalink: /policy/
 author_profile: true
 ---
 
-I am committed to informing broader policy audiences about my research and engaging with transportation planning broadly through the following prior and ongoing work:
+I am committed to informing broader policy audiences about my research and engaging with transportation planning broadly through the following prior and ongoing engagements:
 
 ## Experience
 

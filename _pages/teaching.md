@@ -14,7 +14,7 @@ Graduate-level course in optimization modeling, theory, algorithms, and applicat
 
 - **CPLN 505 Planning by Numbers, University of Pennsylvania (Spring 2023, Spring 2022)** \
 _Teaching assistant_  \
-Graduate-level course in statistical methods for urban planning applications (30 students). Led office hours, developed lecture materials and course syllabus, graded homework assignments and final projects.
+Graduate-level course in statistical methods for urban planning applications (30 students). Led office hours, developed lecture materials and course syllabus, and graded homework assignments and final projects.
 
 - **ESE 210 Intro to Dynamical Systems, University of Pennsylvania (Fall 2023, Fall 2022)** \
 _Teaching assistant_  \

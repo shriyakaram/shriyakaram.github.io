@@ -6,7 +6,8 @@ author_profile: true
 
 ---
 
-My research is organized in a few categories. Broadly my research interests focus on urban mobility (PhD work) and multimodal transportation accessibility and equity (undergraduate work).
+Broadly, my research interests focus on urban mobility (PhD work) and multimodal transportation accessibility and equity (undergraduate work). 
+
 ## Focus 1: Urban mobility
 ### Systems design (PhD)
 
