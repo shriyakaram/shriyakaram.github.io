@@ -64,13 +64,14 @@
   background-color: #152945;
 
   a {
-    color: rgba(255, 255, 255, 0.7); // Semi-transparent by default
+    color: transparent; // rgba(255, 255, 255, 0.0001); // Semi-transparent by default
     transition: color 0.2s ease-in-out;
     
     &:hover,
     &:focus,
     &.active {
       color: rgba(255, 255, 255, 1); // Full white on hover/focus/active
+      text-decoration: none; // Ensure no underline on hover
     }
   }
 
