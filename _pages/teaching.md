@@ -6,6 +6,8 @@ author_profile: true
 
 ---
 
+I have had the opportunity to serve in the following teaching positions:
+
 - **15.C57 Optimization Methods, MIT (Fall 2024)** \
 _Teaching assistant_  \
 Graduate-level course in optimization modeling, theory, algorithms, and applications (300 students). Led office hours, conducted recitations, graded homework assignments, projects, and the final exam.

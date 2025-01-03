@@ -5,7 +5,17 @@ permalink: /policy/
 author_profile: true
 ---
 
-Here are some essays I've written on transportation policy! Feedback and comments are welcome. More essays coming soon!
+I am committed to informing broader policy audiences about my research and engaging with transportation planning broadly through the following prior and ongoing work:
+
+## Experience
+
+- **Office of the Secretary of Transportation, U.S. Department of Transportation (June 2023 - Aug 2023)** \
+_Intern_  \
+Interned at the U.S. Department of Transportation via the ([Summer Transportation Internship Program for Diverse Groups](https://resources.twc.edu/articles/summer-transportation-internship-program-for-diverse-groups-prepares-85-students "Summer Transportation Internship Program for Diverse Groups")) where I led a data collection project for transportation workforce recruitment, participated in an equity summit, and helped developed materials for technological education seminars.
+
+## Articles
+
+Here are some articles I've written on transportation policy! Feedback and comments are welcome. More articles coming soon!
 
 - **The Pathway to Equitable Access: Enhancing Transportation Performance Management (TPM)**  \
 _3rd Place in the Public Roads Student Writing Competition_ (Jan 2023) \
