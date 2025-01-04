@@ -68,11 +68,25 @@
     transition: color 0.2s ease-in-out;
     
     &:hover,
-    &:focus,
-    &.active {
+    &:focus {
       color: rgba(255, 255, 255, 1); // Full white on hover/focus/active
       text-decoration: none; // Ensure no underline on hover
     }
+
+    &.active,
+    &.current,
+    &[aria-current],
+    &[aria-current="page"],
+    &[data-current="current"] {
+      color: rgba(255, 255, 255, 1) !important;
+      text-decoration: none;
+    }
+
+  }
+
+  &.current > a,
+  &.active > a {
+    color: rgba(255, 255, 255, 1) !important;
   }
 
   &--lg {
