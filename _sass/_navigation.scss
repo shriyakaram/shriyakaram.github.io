@@ -219,11 +219,15 @@
         font-weight: bold;
 
         a {
-          margin-left: 0;
-          position: relative;
-
-          &.active {
-            color: #ffffff;  // Pure white for active state
+          // Default link state
+          color: rgba(255, 255, 255, 0.3);
+          transition: color 0.2s ease;
+          
+          // We need multiple selectors to ensure specificity
+          &.active,
+          &[aria-current],
+          &[aria-current="page"] {
+            color: #fff !important; // Using !important as a last resort
             font-weight: bold;
           }
         }
