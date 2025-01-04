@@ -220,6 +220,12 @@
 
         a {
           margin-left: 0;
+          position: relative;
+
+          &.active {
+            color: #ffffff;  // Pure white for active state
+            font-weight: bold;
+          }
         }
       }
 
