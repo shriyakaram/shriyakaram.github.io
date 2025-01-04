@@ -80,3 +80,9 @@
     font-weight: 600;
   }
 }
+
+
+// Add this to handle when JavaScript adds current class to parent li
+.masthead__menu-item.current > a {
+  color: rgba(255, 255, 255, 1);
+}
