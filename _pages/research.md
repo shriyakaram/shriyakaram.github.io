@@ -13,7 +13,7 @@ Broadly, my research interests focus on urban mobility (PhD work) and multimodal
 
 [W1]. Jacquillat, A., Yan, J., Delarue, A., **Karam, S.** Microtransit design: fixed-line transit, on-demand mobility, or both? \
 -_Presented at the 2024 INFORMS Annual Meeting (October 2024, Seattle WA, USA)._ \
--_Presented at the MIT ORC Student Seminar (October 2024, Cambridge MA, USA)._
+-_Presented at the MIT ORC Student Seminar (October 2024, Cambridge MA, USA)._\
 -_To be presented at the Triennial Symposium on Transportation Analysis XII (June 2025, Okinawa, Japan)._
 
 
