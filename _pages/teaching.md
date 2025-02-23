@@ -8,6 +8,10 @@ author_profile: true
 
 I have had the opportunity to serve in the following teaching positions:
 
+- **15.S60 Computing for Optimization and Statistics, MIT (January 2025)** \
+_Session instructor_  \
+Graduate-level course in software tools for operations research (25 students). Curated materials for and led a session on discrete and nonlinear optimization methods in Julia and JuMP.
+
 - **15.C57 Optimization Methods, MIT (Fall 2024)** \
 _Teaching assistant_  \
 Graduate-level course in optimization modeling, theory, algorithms, and applications (300 students). Led office hours, conducted recitations, graded homework assignments, projects, and the final exam.

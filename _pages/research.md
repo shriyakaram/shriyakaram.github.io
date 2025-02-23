@@ -11,11 +11,13 @@ Broadly, my research interests focus on urban mobility (PhD work) and multimodal
 ## Focus 1: Urban mobility
 ### Systems design (PhD)
 
-[W1]. Microtransit design: fixed-line transit, on-demand mobility, or both? \
+[W1]. Jacquillat, A., Yan, J., Delarue, A., **Karam, S.** Microtransit design: fixed-line transit, on-demand mobility, or both? \
 -_Presented at the 2024 INFORMS Annual Meeting (October 2024, Seattle WA, USA)._ \
 -_Presented at the MIT ORC Student Seminar (October 2024, Cambridge MA, USA)._
+-_To be presented at the Triennial Symposium on Transportation Analysis XII (June 2025, Okinawa, Japan)._
 
-### Urban bikeshare planning (undergrad)
+
+### Urban bikeshare (undergrad)
 
 [J1]. Davidson, J., Nam, S.J., **Karam, S.**, Koroma, F.K., Kim, E.M., Ryerson, M.S. (2022). New Equity Inputs to Prioritize Bikeshare Infrastructure Allocation: Learning from the Covid-19 Period. Transportation Research Record. \
 ([DOI](https://doi.org/10.1177/03611981221098390 "DOI")), ([PDF](/files/trr.pdf "PDF")) \
