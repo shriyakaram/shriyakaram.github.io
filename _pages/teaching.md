@@ -8,6 +8,10 @@ author_profile: true
 
 I have had the opportunity to serve in the following teaching positions:
 
+- **Universal AI (through MIT Open Learning), MIT (August 2025)** \
+_Teaching assistant_  \
+Served as a teaching assistant for an online learning course on the intersection of transportation and AI. Developed lecture materials, including case studies, a homework, a recitation, and poll questions for spatiotemporal modeling in transportation. 
+
 - **15.S60 Computing for Optimization and Statistics, MIT (January 2025)** \
 _Session instructor_  \
 Graduate-level course in software tools for operations research (25 students). Curated materials for and led a session on discrete and nonlinear optimization methods in Julia and JuMP.

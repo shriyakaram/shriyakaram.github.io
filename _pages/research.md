@@ -8,17 +8,16 @@ author_profile: true
 
 Broadly, my research interests focus on urban mobility (largely PhD work) and multimodal transportation accessibility and equity (undergraduate work). 
 
-## Focus 1: Urban mobility
+## Focus 1: Urban mobility 
 
-### Integrated fixed-route and on-demand (PhD)
+[W1]. Jacquillat, A. and **Karam, S.**. (2025). Integrating qualitative data into demand estimation for transit service design \
+-_Presented at the 2025 INFORMS Annual Meeting (October 2025, Atlanta GA, USA)._ \
+-_Presented at the 2025 NeurIPS MLxOR Workshop  (December 2025, San Diego CA, USA)._
 
-[W1]. Jacquillat, A., Yan, J., Delarue, A., **Karam, S.** Microtransit design: fixed-line transit, on-demand mobility, or both? \
+[W2]. Delarue, A., Jacquillat, A., **Karam, S.**, Yan, J. (2025). Microtransit design: fixed-route, flexible, or both? Under Review. \
 -_Presented at the 2024 INFORMS Annual Meeting (October 2024, Seattle WA, USA)._ \
 -_Presented at the MIT ORC Student Seminar (October 2024, Cambridge MA, USA)._\
 -_Presented at the Triennial Symposium on Transportation Analysis XII (June 2025, Okinawa, Japan)._
-
-
-### Urban bikeshare (undergrad)
 
 [J1]. Davidson, J., Nam, S.J., **Karam, S.**, Ryerson, M.S. (2025). Cycling in a crisis: Employing quasi-experimental designs to estimate the effects of provisional bicycle infrastructure. Journal of Planning Education and Research. \
 ([DOI](https://doi.org/10.1177/0739456X251330590 "DOI")), ([PDF](/files/jper.pdf "PDF")) \
